@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://flushucf.github.io/sitemap.xml 
+Sitemap: http://bathroomsofucf.com/sitemap.xml 
